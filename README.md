@@ -80,7 +80,8 @@ void yyerror(char *s) {
 
 ```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/be12b48c-3cc6-4a22-ab13-3480d9a90779)
+![image](https://github.com/user-attachments/assets/cc8b5295-52a7-49d3-8a1b-9fdd815864c4)
+
 
 
 # RESULT
